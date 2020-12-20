@@ -1,0 +1,1708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Commerce Parsi\n"
+"POT-Creation-Date: 2017-09-22 13:01+0330\n"
+"PO-Revision-Date: 2017-09-22 22:55+0330\n"
+"Last-Translator: \n"
+"Language-Team: Mandegarweb Team <tansu68@live.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_x:1,2c\\n;"
+"_x;_n;esc_html_x;esc_html_x:1,2c\\n\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "با پوزش فراوان، برگه‌ای که شما به دنبال آن هستید، پیدا نشد."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "با پوزش، چیزی که به دنبال آن هستید، پیدا نشد. جستجو را آزمایش کرده‌اید؟"
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "یک دیدگاه در &ldquo;%s&rdquo;"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "مسیریابی دیدگاه‌ها"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "دیدگاه‌های کهنه‌تر"
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "دیدگاه‌های تازه‌تر"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "دیدگاه‌ها بسته شده‌اند."
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "آغازین"
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr "پاورقی"
+
+#: functions.php:38
+msgid "Social Menu"
+msgstr "شبکه‌های اجتماعی"
+
+#: functions.php:39
+msgid "404 Menu"
+msgstr "404"
+
+#: functions.php:97
+msgid "Primary Sidebar"
+msgstr "نوارکناری آغازین"
+
+#: functions.php:99
+msgid "Add widgets here to appear in your Primary Sidebar."
+msgstr "افزودن ابزارک در اینجا برای نمایش در نوارکناری اصلی"
+
+#: functions.php:106
+msgid "Secondary Sidebar"
+msgstr "نوارکناری دوم"
+
+#: functions.php:108
+msgid "Add widgets here to appear in your Secondary Sidebar."
+msgstr "افزودن ابزارک در اینجا برای نمایش در نوارکناری دوم"
+
+#: functions.php:115
+msgid "Featured Section Right"
+msgstr "بخش ویژه‌ی چپ"
+
+#: functions.php:117
+msgid "Add widgets here to appear in your Featured Section Right widget area."
+msgstr "افزودن ابزارک در اینجا برای نمایش در بخش ویژه‌ی چپ"
+
+#: inc/customizer.php:44
+msgid ""
+"Note: Background Color is applicable only if no image is set as Background Image."
+msgstr ""
+"نکته: رنگ پس‌زمینه تنها زمانی بکار می‌رود که هیچ تصویری برای پس‌زمینه گزینش نشده باشد."
+
+#: inc/customizer.php:55
+msgid "Easy Commerce Pro"
+msgstr "نگارش پولی پوسته"
+
+#: inc/customizer.php:56
+msgid "Buy Pro"
+msgstr "خرید کنید"
+
+#: inc/customizer/control.php:184 inc/widgets.php:159
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; گزینش &mdash;"
+
+#: inc/customizer/default.php:41
+msgid "Copyright &copy; All rights reserved."
+msgstr "کپی‌رایت © همه‌ی حقوق برای این سایت محفوظ است."
+
+#: inc/customizer/default.php:46
+msgid "READ MORE"
+msgstr "خواندن ادامه"
+
+#: inc/customizer/default.php:63
+msgid "Read More"
+msgstr "خواندن ادامه"
+
+#: inc/customizer/featured.php:13
+msgid "Featured Section"
+msgstr "بخش ویژه"
+
+#: inc/customizer/featured.php:22
+msgid "Basic Settings"
+msgstr "پیکربندی پایه"
+
+#: inc/customizer/featured.php:39
+msgid "Enable Featured Section"
+msgstr "فعال کردن بخش ویژه"
+
+#: inc/customizer/featured.php:40
+msgid "This will be displayed in static front page."
+msgstr "در برگه ایستا نمایش داده خواهد شد."
+
+#: inc/customizer/featured.php:58
+msgid "Left Section"
+msgstr "بخش راست"
+
+#: inc/customizer/featured.php:78
+msgid "Slider will be displayed in the left section"
+msgstr "اسلایدر در بخش راست نمایش داده خواهد شد"
+
+#: inc/customizer/featured.php:98
+msgid "Right Section"
+msgstr "بخش چپ"
+
+#: inc/customizer/featured.php:118
+#, php-format
+msgid "This section will display widgets in %s widget area."
+msgstr "در این بخش ابزارک‌های ناحیه %s نمایش داده خواهند شد."
+
+#: inc/customizer/featured.php:130
+msgid "Slider Type"
+msgstr "گونه اسلایدر"
+
+#: inc/customizer/featured.php:147
+msgid "Select Slider Type"
+msgstr "گزینش گونه اسلایدر"
+
+#: inc/customizer/featured.php:166
+msgid "No of Slides"
+msgstr "شمار اسلایدها"
+
+#: inc/customizer/featured.php:167
+msgid ""
+"Enter number between 1 and 5. Save and refresh the page if No of Slides is changed."
+msgstr "پیشنهاد می‌کنیم شمار نمایش اسلایدها بین 1 تا 5 باشد."
+
+#: inc/customizer/featured.php:186
+msgid "Select Category"
+msgstr "گزینش دسته‌بندی"
+
+#: inc/customizer/featured.php:206
+msgid "Select Product Category"
+msgstr "گزینش دسته‌بندی محصول"
+
+#: inc/customizer/featured.php:226 inc/customizer/option.php:356
+msgid "Read More Text"
+msgstr "متن خواندن ادامه"
+
+#: inc/customizer/featured.php:236
+msgid "Slider Options"
+msgstr "تنظیمات اسلایدر"
+
+#: inc/customizer/featured.php:253
+msgid "Transition Effect"
+msgstr "افکت حرکت"
+
+#: inc/customizer/featured.php:270
+msgid "Transition Delay"
+msgstr "تاخیر در حرکت"
+
+#: inc/customizer/featured.php:271 inc/customizer/featured.php:289
+msgid "in seconds"
+msgstr "در ثانیه"
+
+#: inc/customizer/featured.php:288
+msgid "Transition Duration"
+msgstr "زمان نمایش"
+
+#: inc/customizer/featured.php:306
+msgid "Enable Caption"
+msgstr "فعال کردن عنوان، متن و دکمه"
+
+#: inc/customizer/featured.php:322
+msgid "Enable Arrow"
+msgstr "فعال کردن دکمه‌های کنترل"
+
+#: inc/customizer/featured.php:338
+msgid "Enable Pager"
+msgstr "فعال کردن شماره‌بندی"
+
+#: inc/customizer/featured.php:354
+msgid "Enable Autoplay"
+msgstr "فعال کردن حرکت خودکار"
+
+#: inc/customizer/featured.php:371
+msgid "Enable Overlay"
+msgstr "فعال کردن پس‌زمینه محتوا"
+
+#: inc/customizer/option.php:13
+msgid "Theme Options"
+msgstr "پیکربندی پوسته"
+
+#: inc/customizer/option.php:22
+msgid "Header Options"
+msgstr "سربرگ"
+
+#: inc/customizer/option.php:39
+msgid "Show Site Title"
+msgstr "نمایش عنوان سایت"
+
+#: inc/customizer/option.php:56
+msgid "Show Tagline"
+msgstr "نمایش توضیحات"
+
+#: inc/customizer/option.php:73
+msgid "Contact Number"
+msgstr "شماره تماس"
+
+#: inc/customizer/option.php:90
+msgid "Contact Email"
+msgstr "رایانامه"
+
+#: inc/customizer/option.php:107
+msgid "Contact Address"
+msgstr "نشانی"
+
+#: inc/customizer/option.php:124 inc/customizer/option.php:310
+msgid "Show Social Icons"
+msgstr "نمایش آیکون شبکه‌های اجتماعی"
+
+#: inc/customizer/option.php:140
+msgid "Enable Search Form"
+msgstr "فعال کردن فرم جستجو"
+
+#: inc/customizer/option.php:150
+msgid "Layout Options"
+msgstr "طرح‌بندی"
+
+#: inc/customizer/option.php:167
+msgid "Global Layout"
+msgstr "طرح‌بندی جهانی"
+
+#: inc/customizer/option.php:184
+msgid "Archive Layout"
+msgstr "طرح‌بندی بایگانی"
+
+#: inc/customizer/option.php:201
+msgid "Image in Archive"
+msgstr "تصویر در بایگانی"
+
+#: inc/customizer/option.php:218
+msgid "Image Alignment in Archive"
+msgstr "ترازبندی تصویر در بایگانی"
+
+#: inc/customizer/option.php:236 inc/metabox.php:82
+msgid "Image in Single Post/Page"
+msgstr "تصویر در تک نوشته پست/برگه"
+
+#: inc/customizer/option.php:247
+msgid "Home Page Options"
+msgstr "برگه نخست"
+
+#: inc/customizer/option.php:264
+msgid "Show Home Content"
+msgstr "نمایش محتوای خانه"
+
+#: inc/customizer/option.php:265
+msgid "Check this to show page content in Home page."
+msgstr "برای نمایش محتوا در برگه نخست"
+
+#: inc/customizer/option.php:275
+msgid "Footer Options"
+msgstr "پاورقی"
+
+#: inc/customizer/option.php:293
+msgid "Copyright Text"
+msgstr "متن کپی‌رایت"
+
+#: inc/customizer/option.php:320
+msgid "Blog Options"
+msgstr "وبلاگ"
+
+#: inc/customizer/option.php:337
+msgid "Excerpt Length"
+msgstr "طول چکیده"
+
+#: inc/customizer/option.php:338
+msgid "in words"
+msgstr "شمار واژه‌ها"
+
+#: inc/customizer/option.php:373
+msgid "Exclude Categories in Blog"
+msgstr "محروم کردن دسته‌بندی‌ها در وبلاگ"
+
+#: inc/customizer/option.php:374
+msgid "Enter category ID to exclude in Blog Page. Separate with comma if more than one"
+msgstr ""
+"باید شناسه دسته‌بندی‌ها را با کامای انگلیسی از هم جدا کرده و در فیلد زیر وارد کنید"
+
+#: inc/helper/common.php:79 inc/helper/common.php:84
+msgid "on"
+msgstr ""
+
+#: inc/helper/common.php:135 lib/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr "خانه"
+
+#: inc/helper/common.php:259
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: inc/helper/options.php:20
+msgid "Primary Sidebar - Content"
+msgstr "نوارکناری آغازین - محتوا"
+
+#: inc/helper/options.php:21
+msgid "Content - Primary Sidebar"
+msgstr "محتوا - نوارکناری آغازین"
+
+#: inc/helper/options.php:22
+msgid "Three Columns"
+msgstr "سه ستونه"
+
+#: inc/helper/options.php:23
+msgid "No Sidebar"
+msgstr "بدون نوارکناری"
+
+#: inc/helper/options.php:45
+msgid "Featured Category"
+msgstr "دسته‌بندی ویژه"
+
+#: inc/helper/options.php:46
+msgid "Featured Product Category"
+msgstr "دسته‌بندی ویژه محصول"
+
+#: inc/helper/options.php:72
+msgid "fade"
+msgstr ""
+
+#: inc/helper/options.php:73
+msgid "fadeout"
+msgstr ""
+
+#: inc/helper/options.php:74
+msgid "none"
+msgstr "هرگز"
+
+#: inc/helper/options.php:75
+msgid "scrollHorz"
+msgstr ""
+
+#: inc/helper/options.php:100
+msgid "Full Post"
+msgstr "محتوای کامل"
+
+#: inc/helper/options.php:101
+msgid "Post Excerpt"
+msgstr "چکیده نوشته"
+
+#: inc/helper/options.php:130
+msgid "No Image"
+msgstr "بدون تصویر"
+
+#: inc/helper/options.php:132
+msgid "Thumbnail"
+msgstr "بندانگشتی"
+
+#: inc/helper/options.php:133
+msgid "Medium"
+msgstr "میانه"
+
+#: inc/helper/options.php:134
+msgid "Large"
+msgstr "بزرگ"
+
+#: inc/helper/options.php:135
+msgid "Full (original)"
+msgstr "کامل"
+
+#: inc/helper/options.php:178
+msgid "None"
+msgstr "هرگز"
+
+#: inc/helper/options.php:179
+msgid "Left"
+msgstr ""
+
+#: inc/helper/options.php:180
+msgid "Center"
+msgstr "مرکز"
+
+#: inc/helper/options.php:181
+msgid "Right"
+msgstr ""
+
+#: inc/hook/basic.php:23 woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: inc/hook/basic.php:24
+msgid "Search&hellip;"
+msgstr "کلیدواژه..."
+
+#: inc/hook/custom.php:17
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: inc/hook/custom.php:190
+#, php-format
+msgid "Easy Commerce by %s"
+msgstr "طراح پوسته : %s"
+
+#: inc/hook/custom.php:190
+msgid "WEN Themes"
+msgstr ""
+
+#: inc/hook/custom.php:435
+msgid "Login / Register"
+msgstr "حساب کاربری"
+
+#: inc/hook/tgm.php:19
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: inc/hook/tgm.php:24
+msgid "YITH WooCommerce Wishlist"
+msgstr "فهرست علاقه‌مندی‌ها"
+
+#: inc/metabox.php:22
+msgid "Theme Settings"
+msgstr "پیکربندی پوسته"
+
+#: inc/metabox.php:58
+msgid "Layout"
+msgstr "طرح‌بندی"
+
+#: inc/metabox.php:59
+msgid "Image"
+msgstr "نگاره"
+
+#: inc/metabox.php:62
+msgid "Layout Settings"
+msgstr "تنظیمات طرح‌بندی"
+
+#: inc/metabox.php:64
+msgid "Single Layout"
+msgstr "طرح‌بندی تک نوشته"
+
+#: inc/metabox.php:80
+msgid "Image Settings"
+msgstr "تنظیمات تصویر"
+
+#: inc/support/footer-widgets.php:109
+#, php-format
+msgid "Footer Widget %d"
+msgstr "ابزارک پاورقی %d"
+
+#: inc/template-tags.php:57 inc/template-tags.php:63
+msgid ", "
+msgstr "،"
+
+#: inc/template-tags.php:71
+msgid "Leave a comment"
+msgstr "دیدگاه خود را بنویسید"
+
+#: inc/template-tags.php:71
+msgid "1 Comment"
+msgstr "1 دیدگاه"
+
+#: inc/template-tags.php:71
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: inc/template-tags.php:75 template-parts/content-page.php:39
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/widgets.php:53
+msgid "Displays social icons."
+msgstr "نمایش آیکون شبکه‌های اجتماعی"
+
+#: inc/widgets.php:58 inc/widgets.php:142 inc/widgets.php:310
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/widgets.php:63 inc/widgets.php:147 inc/widgets.php:315
+msgid "Subtitle:"
+msgstr "زیرعنوان:"
+
+#: inc/widgets.php:71
+msgid "Social menu is not set. Please create menu and assign it to Social Menu."
+msgstr ""
+"فهرست شبکه‌های اجتماعی آراسته نشده است. خواهشمندیم یک فهرست برای نمایش در جایگاه "
+"\"شبکه‌های اجتماعی\" بسازید."
+
+#: inc/widgets.php:77
+msgid "EC: Social"
+msgstr "آیکون شبکه‌های اجتماعی"
+
+#: inc/widgets.php:137
+msgid "Displays single featured Page or Post."
+msgstr "نمایش تک‌نوشته‌ی ویژه برگه یا پست"
+
+#: inc/widgets.php:152
+msgid "Use Page/Post Title as Widget Title"
+msgstr "بکارگیری عنوان نوشته/برگه برای ابزارک"
+
+#: inc/widgets.php:157
+msgid "Select Page:"
+msgstr "گزینش برگه:"
+
+#: inc/widgets.php:162
+msgid "OR"
+msgstr "یا"
+
+#: inc/widgets.php:166
+msgid "Post ID:"
+msgstr "شناسه نوشته:"
+
+#: inc/widgets.php:167
+msgid "Eg: 1234"
+msgstr "نمونه: 123"
+
+#: inc/widgets.php:172
+msgid "Show Content:"
+msgstr "نمایش محتوا:"
+
+#: inc/widgets.php:176
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: inc/widgets.php:177
+msgid "Full"
+msgstr "کامل"
+
+#: inc/widgets.php:181
+msgid "Excerpt Length:"
+msgstr "طول چکیده:"
+
+#: inc/widgets.php:182
+msgid "Applies when Excerpt is selected in Content option."
+msgstr "طول چکیده را برای نمایش محتوا مشخص سازید."
+
+#: inc/widgets.php:190 inc/widgets.php:333
+msgid "Featured Image:"
+msgstr "تصویر ویژه:"
+
+#: inc/widgets.php:195
+msgid "Image Alignment:"
+msgstr "ترازبندی تصویر:"
+
+#: inc/widgets.php:202
+msgid "EC: Featured Page"
+msgstr "برگه ویژه"
+
+#: inc/widgets.php:267
+msgid "Read more"
+msgstr "خواندن ادامه"
+
+#: inc/widgets.php:305
+msgid "Displays recent posts."
+msgstr "نمایش نوشته‌های تازه"
+
+#: inc/widgets.php:320
+msgid "Select Category:"
+msgstr "گزینش دسته‌بندی:"
+
+#: inc/widgets.php:322 template-parts/product-search.php:22
+msgid "All Categories"
+msgstr "همه‌ی دسته‌بندی‌ها"
+
+#: inc/widgets.php:325
+msgid "Number of Posts:"
+msgstr "شمار نمایش نوشته‌ها:"
+
+#: inc/widgets.php:339
+msgid "Image Width:"
+msgstr "پهنای تصویر"
+
+#: inc/widgets.php:341
+msgid "px"
+msgstr "پیکسل"
+
+#: inc/widgets.php:349
+msgid "Disable Date"
+msgstr "نمایش تاریخ"
+
+#: inc/widgets.php:355
+msgid "EC: Recent Posts"
+msgstr "نوشته‌های تازه"
+
+#: lib/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr "مرور کردن:"
+
+#: lib/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr "404 - چیزی پیدا نشد"
+
+#: lib/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr "بایگانی‌ها"
+
+#: lib/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "نتایج جستجو برای &#8220;%s&#8221;"
+
+#: lib/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr "دقیقه %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr "هفته %s"
+
+#: lib/breadcrumbs/breadcrumbs.php:708
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:725
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:742
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:758 lib/breadcrumbs/breadcrumbs.php:787
+#: lib/breadcrumbs/breadcrumbs.php:814 lib/breadcrumbs/breadcrumbs.php:841
+#: lib/breadcrumbs/breadcrumbs.php:1182
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:759 lib/breadcrumbs/breadcrumbs.php:815
+#: lib/breadcrumbs/breadcrumbs.php:1186
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:760 lib/breadcrumbs/breadcrumbs.php:1190
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:788
+msgid "W"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:386
+#: lib/tgm/class-tgm-plugin-activation.php:827
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+#: lib/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:387
+#: lib/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:388
+#: lib/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update "
+"the plugin."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:934
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according to "
+"the WordPress guidelines."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1121
+#: lib/tgm/class-tgm-plugin-activation.php:2948
+msgid "and"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3509
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/widget-base/class-widget-base.php:290
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: lib/widget-base/class-widget-base.php:290
+msgid "Select Image"
+msgstr "گزینش تصویر"
+
+#: lib/widget-base/class-widget-base.php:290
+msgid "Choose Image"
+msgstr "گزینش تصویر"
+
+#: lib/widget-base/class-widget-base.php:301
+msgid "X"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "دستاوردهای جستجو برای: %s"
+
+#: single.php:22
+msgid "Next"
+msgstr "پسین"
+
+#: single.php:23
+msgid "Next post:"
+msgstr "نوشته پسین:"
+
+#: single.php:25
+msgid "Previous"
+msgstr "پیشین"
+
+#: single.php:26
+msgid "Previous post:"
+msgstr "نوشته پیشین:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "برای انتشار نخستین نوشته آماده هستید? <a href=\"%1$s\">اینجا را کلیک کنید</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+"با پوزش فراوان، چیزی که شما به دنبال آن هستید، پیدا نشد. از واژه‌های کلیدی‌تر استفاده "
+"نمایید."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+"با پوزش ما نمی‌توانیم چیزی که شما به دنبال آن هستید را پیدا کنیم، می‌توانید جستجو کردن "
+"را آزمایش کنید."
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:35
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr "برگه‌ها:"
+
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "خواندن ادامه %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/product-search.php:31 woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr "جستجو در میان محصولات..."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try one of the links below "
+#~ "or a search?"
+#~ msgstr ""
+#~ "با پوزش فراوان چیزی در اینجا پیدا نشد، شاید یکی از پیوندهای زیر و یا جستجو کردن به "
+#~ "شما در پیدا کردن چیزی که به دنبال آن هستید، کمک کند."
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "به بایگانی‌های ماهانه نگاهی بیاندازید. %1$s"
+
+#~ msgid "Primary"
+#~ msgstr "سربرگ"
+
+#~ msgid "Footer"
+#~ msgstr "پاورقی"
+
+#~ msgid "Sidebar"
+#~ msgstr "نوارکناری"
+
+#~ msgid "Page - "
+#~ msgstr "برگه - "
+
+#~ msgid "Use this widget area to build content for the page: "
+#~ msgstr "از این ناحیه‌ی ابزارکی برای ساختن محتوای برگه‌ی خود بهره‌مند شوید: "
+
+#~ msgid "Footer "
+#~ msgstr "پاورقی"
+
+#~ msgid "https://wordpress.org/"
+#~ msgstr "https://mandegarweb.com/"
+
+#~ msgid "Powered by %s"
+#~ msgstr "ماندگار وب %s"
+
+#~ msgid "Theme: %2$s by %1$s."
+#~ msgstr "طراحی پوسته: %2$s به‌دست %1$s."
+
+#~ msgid "Site branding"
+#~ msgstr "ریزگان وب‌گاه"
+
+#~ msgid "Header area"
+#~ msgstr "ناحیه سربرگ"
+
+#~ msgid "Header type"
+#~ msgstr "گونه سربرگ"
+
+#~ msgid "Select your header type"
+#~ msgstr "گونه سربرگ را گزینش کنید"
+
+#~ msgid "Front page header type"
+#~ msgstr "گونه‌ی سربرگ برگه نخست"
+
+#~ msgid "Select the header type for your front page"
+#~ msgstr "گونه‌ی سربرگ برگه نخست را گزینش کنید"
+
+#~ msgid "Video"
+#~ msgstr "ویدیو"
+
+#~ msgid "Only menu"
+#~ msgstr "تنها فهرست"
+
+#~ msgid "Site header type"
+#~ msgstr "گونه سربرگ وب‌گاه"
+
+#~ msgid "Select the header type for all pages except the front page"
+#~ msgstr "گونه سربرگ را برای همه‌ی برگه‌ها جدا از برگه نخست، گزینش کنید."
+
+#~ msgid "Header text"
+#~ msgstr "متن سربرگ"
+
+#~ msgid "Header small text"
+#~ msgstr "متن کوتاه سربرگ"
+
+#~ msgid "Button text"
+#~ msgstr "متن دکمه"
+
+#~ msgid "Button URL"
+#~ msgstr "پیوند دکمه"
+
+#~ msgid "Small screens header image"
+#~ msgstr "نگاره سربرگ برای دستگاه‌های کوچک"
+
+#~ msgid "Add a header image for screen widths smaller than 1024px"
+#~ msgstr "افزودن نگاره سربرگ برای برگه‌هایی با کمتر از اندازه 1024 پیکسل"
+
+#~ msgid "Menu style"
+#~ msgstr "سَبک فهرست"
+
+#~ msgid "Sticky menu"
+#~ msgstr "فهرست برجسته"
+
+#~ msgid "Sticky"
+#~ msgstr "برجسته"
+
+#~ msgid "Static"
+#~ msgstr "ایستا"
+
+#~ msgid "Inline"
+#~ msgstr "خطی"
+
+#~ msgid "Centered"
+#~ msgstr "مرکزی"
+
+#~ msgid "Fonts"
+#~ msgstr "قلم‌ها"
+
+#~ msgid "Site title"
+#~ msgstr "عنوان وب‌گاه"
+
+#~ msgid "Site description"
+#~ msgstr "درباره وب‌گاه"
+
+#~ msgid "H1 font size"
+#~ msgstr "اندازه قلم H1"
+
+#~ msgid "H2 font size"
+#~ msgstr "اندازه قلم H2"
+
+#~ msgid "H3 font size"
+#~ msgstr "اندازه قلم H3"
+
+#~ msgid "H4 font size"
+#~ msgstr "اندازه قلم H4"
+
+#~ msgid "H5 font size"
+#~ msgstr "اندازه قلم H5"
+
+#~ msgid "H6 font size"
+#~ msgstr "اندازه قلم H6"
+
+#~ msgid "Body font size"
+#~ msgstr "اندازه قلم بدنه"
+
+#~ msgid "Blog options"
+#~ msgstr "پیکربندی وبلاگ"
+
+#~ msgid "Blog layout"
+#~ msgstr "طرح‌بندی وبلاگ"
+
+#~ msgid "List"
+#~ msgstr "فهرست"
+
+#~ msgid "Full width (no sidebar)"
+#~ msgstr "پهنای زیاد (بدون نوارکناری)"
+
+#~ msgid "Masonry (grid style)"
+#~ msgstr "شبکه‌ای"
+
+#~ msgid "Full width single posts?"
+#~ msgstr "نمایش تک نوشته‌ها با پهنای زیاد؟"
+
+#~ msgid "Excerpt length"
+#~ msgstr "اندازه چکیده"
+
+#~ msgid "Hide post meta?"
+#~ msgstr "پنهان کردن ریزگان نوشته؟"
+
+#~ msgid "Hide featured images?"
+#~ msgstr "پنهان کردن نگاره ویژه؟"
+
+#~ msgid "Footer widget area"
+#~ msgstr "ناحیه ابزارکی پاورقی"
+
+#~ msgid ""
+#~ "Choose the number of widget areas in the footer, then go to Appearance > Widgets "
+#~ "and add your widgets."
+#~ msgstr ""
+#~ "شمار ابزارک‌ها را برای نمایش در ناحیه ابزارکی پاورقی گزینش کنید و سپس به نمایش > "
+#~ "ابزارک‌ها رفته و ابزارک‌های مورد پسند خود را بیافزایید."
+
+#~ msgid "One"
+#~ msgstr "یک"
+
+#~ msgid "Two"
+#~ msgstr "دو"
+
+#~ msgid "Three"
+#~ msgstr "سه"
+
+#~ msgid "Upload your footer logo"
+#~ msgstr "بارگذاری لوگو برای پاورقی"
+
+#~ msgid "Contact"
+#~ msgstr "تماس"
+
+#~ msgid "Activate the footer contact and logo area?"
+#~ msgstr "فعال کردن بخش تماس و ناحیه‌ی نمایش آرم در پاروقی؟"
+
+#~ msgid "Address"
+#~ msgstr "نشانی"
+
+#~ msgid "Email address"
+#~ msgstr "رایانامه"
+
+#~ msgid "Phone number"
+#~ msgstr "شماره تلفن"
+
+#~ msgid "Primary color"
+#~ msgstr "رنگ بنیادین"
+
+#~ msgid "Menu background"
+#~ msgstr "پس‌زمینه فهرست"
+
+#~ msgid "Body text"
+#~ msgstr "متن بدنه"
+
+#~ msgid "Footer background"
+#~ msgstr "پس‌زمینه پاورقی"
+
+#~ msgid "Demo content"
+#~ msgstr "محتوای پیش‌نمایشی"
+
+#~ msgid "5 minute setup"
+#~ msgstr "پیکربندی 5 دقیقه‌ای"
+
+#~ msgid "Welcome to Astrid"
+#~ msgstr "به ماندگار وب خوش‌آمدید"
+
+#~ msgid "Explore"
+#~ msgstr "به ما بپیوندید"
+
+#~ msgid "Styling"
+#~ msgstr "سَبک دادن"
+
+#~ msgid "Click to expand"
+#~ msgstr "برای باز شدن کلیک کنید"
+
+#~ msgid "Options found in this panel apply only to this widget."
+#~ msgstr "گزینه‌هایی که یافت شده‌اند تنها در همین ابزارک به‌کار گرفته می‌شوند."
+
+#~ msgid "Section ID"
+#~ msgstr "شناسه بخش"
+
+#~ msgid "Background color"
+#~ msgstr "رنگ پس‌زمینه"
+
+#~ msgid "Text color"
+#~ msgstr "رنگ متن"
+
+#~ msgid "Widget title color"
+#~ msgstr "رنگ متن عنوان ابزارک"
+
+#~ msgid "Background image URL"
+#~ msgstr "نشانی اینترنتی نگاره پس‌زمینه"
+
+#~ msgid "Widget width:"
+#~ msgstr "پهنای ابزارک:"
+
+#~ msgid "Full Width"
+#~ msgstr "پهنای زیاد"
+
+#~ msgid "1/2 Width"
+#~ msgstr "پهنا 1/2"
+
+#~ msgid "1/3 Width"
+#~ msgstr "پهنا 1/3"
+
+#~ msgid "Top/bottom padding [px]"
+#~ msgstr "بالا/پایین فاصله‌دادن (پیکسل)"
+
+#~ msgid "Remove container?"
+#~ msgstr "پاک کردن container؟"
+
+#~ msgid "Show a list of your clients."
+#~ msgstr "نمایش فهرستی از مشتریان شما"
+
+#~ msgid "Astrid FP: Clients"
+#~ msgstr "مشتریان"
+
+#~ msgid ""
+#~ "This widget displays all pages that have the Client Service page template assigned "
+#~ "to them."
+#~ msgstr "این ابزارک همه‌ی برگه‌هایی که با قالب Single Client هستند را نمایش خواهد داد."
+
+#~ msgid ""
+#~ "Tip: to rearrange the clients order, edit each client page and add a value in Page "
+#~ "Attributes > Order"
+#~ msgstr ""
+#~ "نکته: برای ویرایش و افزودن مشتری تازه باید در برگه افزودن برگه، از ستون سمت چپ "
+#~ "برگه افزودن برگه (بخش ویژگی‌های برگه)، قالب را بر روی Single Client قرار دهید."
+
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+#~ msgid "Number of clients to show (-1 shows all of them):"
+#~ msgstr "شمار مشتریان برای نمایش (-1 برای نمایش همه)"
+
+#~ msgid ""
+#~ "Offset (number of clients needs to be different than -1 for this option to work):"
+#~ msgstr "کج‌روی (برای بکارگیری این بخش، شمار مشتریان باید -1 نباشد):"
+
+#~ msgid ""
+#~ "Page IDs to display in this widget (separated by commas, example: 14,810,220). "
+#~ "Note: you can find the page ID in the URL bar while editing your page."
+#~ msgstr ""
+#~ "نمایش برگه‌ها با وارد کردن شناسه‌ی آن‌ها ( با کامای لاتین از هم جدا شوند، نمونه: "
+#~ "12,45,84) نکته: شناسه را می‌توانید در هنگام ویرایش برگه از نوار نشانی مرورگر به‌دست "
+#~ "آورید)"
+
+#~ msgid "The URL for your button [In case you want a button below your clients block]"
+#~ msgstr ""
+#~ "پیوند برای دکمه شما (در صورتی که می‌خواهید در زیر بخش مشتریان دکمه‌ای را برای نمایش "
+#~ "قرار دهید)"
+
+#~ msgid ""
+#~ "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+#~ msgstr "متن برای دکمه (چیزی همانند: تماشای همه‌ی مشتریان ما)"
+
+#~ msgid "See all our clients"
+#~ msgstr "تماشای همه‌ی مشتریان ما"
+
+#~ msgid "Show your employees"
+#~ msgstr "نمایش فهرستی از کارکنان شما"
+
+#~ msgid "Astrid FP: Employees"
+#~ msgstr "کارکنان"
+
+#~ msgid ""
+#~ "This widget displays all pages that have the Single Employee page template "
+#~ "assigned to them."
+#~ msgstr ""
+#~ "این ابزارک همه‌ی برگه‌هایی که با قالب Single Employee هستند را نمایش خواهد داد."
+
+#~ msgid ""
+#~ "Tip: to rearrange the employees order, edit each employee page and add a value in "
+#~ "Page Attributes > Order"
+#~ msgstr ""
+#~ "نکته: برای ویرایش و افزودن کارکنان باید در برگه افزودن برگه، از ستون سمت چپ برگه "
+#~ "افزودن برگه (بخش ویژگی‌های برگه)، قالب را بر روی Single Employee قرار دهید."
+
+#~ msgid "Number of employees to show (-1 shows all of them):"
+#~ msgstr "شمار کارکنان برای نمایش (-1 برای نمایش همه)"
+
+#~ msgid ""
+#~ "Offset (number of employees needs to be different than -1 for this option to work):"
+#~ msgstr "کج‌روی (برای بکارگیری این بخش، شمار کارکنان باید -1 نباشد):"
+
+#~ msgid ""
+#~ "The URL for your button [In case you want a button below your employees block]"
+#~ msgstr ""
+#~ "پیوند برای دکمه شما (در صورتی که می‌خواهید در زیر بخش کارکنان دکمه‌ای را برای نمایش "
+#~ "قرار دهید)"
+
+#~ msgid ""
+#~ "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+#~ msgstr "متن برای دکمه (چیزی همانند: تماشای همه‌ی کارکنان ما)"
+
+#~ msgid "See all our employees"
+#~ msgstr "تماشای همه‌ی کارکنان ما"
+
+#~ msgid "Show your visitors some facts about your company."
+#~ msgstr "نمایش فهرستی از ویژگی‌های شرکت شما"
+
+#~ msgid "Astrid FP: Facts"
+#~ msgstr "آمارها"
+
+#~ msgid "You can find a list of the available icons "
+#~ msgstr "برای پیداکردن آیکون مورد پسند خود "
+
+#~ msgid "here."
+#~ msgstr "کلیک کنید"
+
+#~ msgid "Usage example: <strong>fa-android</strong>"
+#~ msgstr "نمونه: <strong>fa-android</strong>"
+
+#~ msgid "First fact name"
+#~ msgstr "نام ویژگی نخست"
+
+#~ msgid "First fact value"
+#~ msgstr "اندازه ویژگی نخست"
+
+#~ msgid "First fact icon"
+#~ msgstr "آیکون ویژگی نخست"
+
+#~ msgid "Second fact name"
+#~ msgstr "نام ویژگی دوم"
+
+#~ msgid "Second fact value"
+#~ msgstr "اندازه ویژگی دوم"
+
+#~ msgid "Second fact icon"
+#~ msgstr "آیکون ویژگی دوم"
+
+#~ msgid "Third fact name"
+#~ msgstr "نام ویژگی سوم"
+
+#~ msgid "Third fact value"
+#~ msgstr "اندازه ویژگی سوم"
+
+#~ msgid "Third fact icon"
+#~ msgstr "آیکون ویژگی سوم"
+
+#~ msgid "Fourth fact name"
+#~ msgstr "نام ویژگی چهارم"
+
+#~ msgid "Fourth fact value"
+#~ msgstr "اندازه ویژگی چهارم"
+
+#~ msgid "Fourth fact icon"
+#~ msgstr "آیکون ویژگی چهارم"
+
+#~ msgid "Show the latest news from your blog."
+#~ msgstr "نمایش فهرستی از تازه‌ترین خبرها از وبلاگ"
+
+#~ msgid "Astrid FP: Latest News"
+#~ msgstr "تازه‌ترین اخبار"
+
+#~ msgid ""
+#~ "Enter the slug for your category or leave empty to show posts from all categories."
+#~ msgstr ""
+#~ "اگر برای نمایش نوشته‌ها دسته‌بندی ویژه‌ای مورد پسند شما هست، باید نامک (اسلاگ) آن‌را "
+#~ "وارد کنید، اگر نامکی وارد نشود همه‌ی نوشته‌ها از همه‌ی دسته‌ها نمایش داده خواهند شد."
+
+#~ msgid ""
+#~ "Add the text for the button here if you want to change the default <em>See all our "
+#~ "news</em>"
+#~ msgstr "افزودن یک متن برای نمایش در دکمه به‌جای متن پیش‌فرض"
+
+#~ msgid "See all our news"
+#~ msgstr "تماشای همه‌ی خبرها"
+
+#~ msgid "Show off your latest projects."
+#~ msgstr "نمایش فهرستی از پروژه‌های شما"
+
+#~ msgid "Astrid FP: Projects"
+#~ msgstr "پروژه‌ها"
+
+#~ msgid ""
+#~ "This widget displays all pages that have the Single Project page template assigned "
+#~ "to them."
+#~ msgstr "این ابزارک همه‌ی برگه‌هایی که با قالب Single Project هستند را نمایش خواهد داد."
+
+#~ msgid ""
+#~ "Tip: to rearrange the projects order, edit each project page and add a value in "
+#~ "Page Attributes > Order"
+#~ msgstr ""
+#~ "نکته: برای ویرایش و افزودن پروژه باید در برگه افزودن برگه، از ستون سمت چپ برگه "
+#~ "افزودن برگه (بخش ویژگی‌های برگه)، قالب را بر روی Single Project قرار دهید."
+
+#~ msgid "Number of projects to show (-1 shows all of them):"
+#~ msgstr "شمار پروژه‌ها برای نمایش (-1 برای نمایش همه)"
+
+#~ msgid ""
+#~ "Offset (number of projects needs to be different than -1 for this option to work):"
+#~ msgstr "کج‌روی (برای بکارگیری این بخش، شمار پروژه‌ها باید -1 نباشد):"
+
+#~ msgid "The URL for your button [In case you want a button below your projects block]"
+#~ msgstr ""
+#~ "پیوند برای دکمه شما (در صورتی که می‌خواهید در زیر بخش پروژه‌ها دکمه‌ای را برای نمایش "
+#~ "قرار دهید)"
+
+#~ msgid ""
+#~ "The text for the button [Defaults to <em>See all our projects</em> if left empty]"
+#~ msgstr "متن برای دکمه (چیزی همانند: تماشای همه‌ی پروژه‌های ما)"
+
+#~ msgid "See all our projects"
+#~ msgstr "تماشای همه‌ی پروژه‌ها"
+
+#~ msgid "Show what services you are able to provide."
+#~ msgstr "نمایش فهرستی از سرویس‌های شما"
+
+#~ msgid "Astrid FP: Services"
+#~ msgstr "سرویس‌ها"
+
+#~ msgid ""
+#~ "This widget displays all pages that have the Single Service page template assigned "
+#~ "to them."
+#~ msgstr "این ابزارک همه‌ی برگه‌هایی که با قالب Single Service هستند را نمایش خواهد داد."
+
+#~ msgid ""
+#~ "Tip: to rearrange the services order, edit each service page and add a value in "
+#~ "Page Attributes > Order"
+#~ msgstr ""
+#~ "نکته: برای ویرایش و افزودن سرویس باید در برگه افزودن برگه، از ستون سمت چپ برگه "
+#~ "افزودن برگه (بخش ویژگی‌های برگه)، قالب را بر روی Single Service قرار دهید."
+
+#~ msgid "Number of services to show (-1 shows all of them):"
+#~ msgstr "شمار سرویس‌ها برای نمایش (-1 برای نمایش همه)"
+
+#~ msgid ""
+#~ "Offset (number of services needs to be different than -1 for this option to work):"
+#~ msgstr "کج‌روی (برای بکارگیری این بخش، شمار سرویس‌ها باید -1 نباشد):"
+
+#~ msgid "The URL for your button [In case you want a button below your services block]"
+#~ msgstr ""
+#~ "پیوند برای دکمه شما (در صورتی که می‌خواهید در زیر بخش سرویس‌ها دکمه‌ای را برای نمایش "
+#~ "قرار دهید)"
+
+#~ msgid ""
+#~ "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+#~ msgstr "متن برای دکمه (چیزی همانند: تماشای همه‌ی سرویس‌های ما)"
+
+#~ msgid "See all our services"
+#~ msgstr "تماشای همه‌ی سرویس‌ها"
+
+#~ msgid "Show your visitors some of your skills."
+#~ msgstr "نمایش فهرستی از مهارت‌های شما"
+
+#~ msgid "Astrid FP: Skills"
+#~ msgstr "مهارت‌ها"
+
+#~ msgid "First skill name"
+#~ msgstr "نام مهارت نخست"
+
+#~ msgid "First skill value"
+#~ msgstr "اندازه مهارت نخست"
+
+#~ msgid "Second skill name"
+#~ msgstr "نام مهارت دوم"
+
+#~ msgid "Second skill value"
+#~ msgstr "اندازه مهارت دوم"
+
+#~ msgid "Third skill name"
+#~ msgstr "نام مهارت سوم"
+
+#~ msgid "Third skill value"
+#~ msgstr "اندازه مهارت سوم"
+
+#~ msgid "Fourth skill name"
+#~ msgstr "نام مهارت چهارم"
+
+#~ msgid "Fourth skill value"
+#~ msgstr "اندازه مهارت چهارم"
+
+#~ msgid "Fifth skill name"
+#~ msgstr "نام مهارت پنجم"
+
+#~ msgid "Fifth skill value"
+#~ msgstr "اندازه مهارت پنجم"
+
+#~ msgid "Display your testimonials."
+#~ msgstr "نمایش فهرستی از دیدگاه مشتریان شما"
+
+#~ msgid "Astrid FP: Testimonials"
+#~ msgstr "دیدگاه مشتریان"
+
+#~ msgid ""
+#~ "This widget displays all pages that have the Single Testimonial page template "
+#~ "assigned to them."
+#~ msgstr ""
+#~ "این ابزارک همه‌ی برگه‌هایی که با قالب Single Testimonial هستند را نمایش خواهد داد."
+
+#~ msgid ""
+#~ "Tip: to rearrange the testimonials order, edit each testimonial page and add a "
+#~ "value in Page Attributes > Order"
+#~ msgstr ""
+#~ "نکته: برای ویرایش و افزودن دیدگاه باید در برگه افزودن برگه، از ستون سمت چپ برگه "
+#~ "افزودن برگه (بخش ویژگی‌های برگه)، قالب را بر روی Single Testimonial قرار دهید."
+
+#~ msgid "Number of testimonials to show (-1 shows all of them):"
+#~ msgstr "شمار دیدگاه‌ها برای نمایش (-1 برای نمایش همه)"
+
+#~ msgid ""
+#~ "Offset (number of testimonials needs to be different than -1 for this option to "
+#~ "work):"
+#~ msgstr "کج‌روی (برای بکارگیری این بخش، شمار دیدگاه‌ها باید -1 نباشد):"
+
+#~ msgid ""
+#~ "The URL for your button [In case you want a button below your testimonials block]"
+#~ msgstr ""
+#~ "پیوند برای دکمه شما (در صورتی که می‌خواهید در زیر بخش دیدگاه مشتریان دکمه‌ای را برای "
+#~ "نمایش قرار دهید)"
+
+#~ msgid ""
+#~ "The text for the button [Defaults to <em>See all our testimonials</em> if left "
+#~ "empty]"
+#~ msgstr "متن برای دکمه (چیزی همانند: تماشای همه‌ی دیدگاه‌ها)"
+
+#~ msgid "See all our testimonials"
+#~ msgstr "تماشای همه‌ی دیدگاه‌ها"
+
+#~ msgid "Recent posts with thumbnails"
+#~ msgstr "تازه‌ترین نوشته‌ها با نگاره ویژه"
+
+#~ msgid "Astrid: Recent Posts"
+#~ msgstr "تازه‌ترین نوشته‌ها"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "شمار نوشته‌ها برای نمایش:"
+
+#~ msgid "Display post date?"
+#~ msgstr "نمایش زمان انتشار نوشته‌ها؟"
+
+#~ msgid "Display your social profile"
+#~ msgstr "نمایش شبکه‌های اجتماعی شما"
+
+#~ msgid "Astrid: Social Profile"
+#~ msgstr "شبکه‌های اجتماعی"
+
+#~ msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+#~ msgstr "فهرستی برای بکارگیری ساخته نشده است. <a href=\"%s\">آن‌را بسازید</a>."
+
+#~ msgid ""
+#~ "In order to display your social icons in a widget, all you need to do is go to "
+#~ "<strong>Appearance > Menus</strong> and create a menu containing links to your "
+#~ "social profiles, then assign that menu here. Supported networks: Facebook, "
+#~ "Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, "
+#~ "Pinterest, Tumblr, Foursquare, Behance etc."
+#~ msgstr ""
+#~ "برای نمایش شبکه‌های اجتماعی‌تان در این ابزارک به مسیر: نمایش > فهرست‌ها رفته و یک "
+#~ "فهرست همراه با پیوند شبکه‌های اجتماعی گوناگون بسازید."
+
+#~ msgid "Select your social menu:"
+#~ msgstr "فهرست شبکه‌های اجتماعی را گزینش کنید:"
+
+#~ msgid "Display a video from Youtube, Vimeo etc."
+#~ msgstr "نمایش یک ویدیو از یوتیوب، ویمیو"
+
+#~ msgid "Astrid: Video"
+#~ msgstr "ویدیو"
+
+#~ msgid ""
+#~ "Paste the URL of the video (only from a network that supports oEmbed, like "
+#~ "Youtube, Vimeo etc.):"
+#~ msgstr "جای‌گزاری پیوند ویدیو"
+
+#~ msgid "Edit %s"
+#~ msgstr "ویرایش %s"
